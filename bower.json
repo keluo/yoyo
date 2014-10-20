@@ -1,0 +1,12 @@
+{
+	"name": "yoyo",
+	"version": "0.0.0",
+	"authors": [
+		"yuw"
+	],
+	"license": "MIT",
+	"dependencies": {
+		"bootstrap": "~3.x.x",
+		"angular": "~2.x.x"
+	}
+}
